@@ -1,0 +1,1 @@
+INSERT INTO crawlerconfig (id, name, refresh_rate, base_url, uri) VALUES (1, 'bitcoin2usd', 7000, 'https://api.coindesk.com', '/v1/bpi/currentprice.json');

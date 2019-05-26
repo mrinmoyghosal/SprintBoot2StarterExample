@@ -1,0 +1,6 @@
+target/*
+dist/*
+.project
+.class*
+.setting*
+dist/*
